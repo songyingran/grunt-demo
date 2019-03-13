@@ -18,6 +18,8 @@
   "homepage": "https://github.com/songyingran/grunt-demo#readme",
   "devDependencies": {
     "grunt": "^1.0.3",
+    "grunt-contrib-csslint": "^2.0.0",
     "grunt-htmlhint": "^0.9.13"
-  }
+  },
+  "dependencies": {}
 }
