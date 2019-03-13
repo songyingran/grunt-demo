@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/songyingran/grunt-demo#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "grunt": "^1.0.3",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-csslint": "^2.0.0",
@@ -26,6 +27,8 @@
     "grunt-contrib-uglify": "^4.0.0",
     "grunt-eslint": "^21.0.0",
     "grunt-htmlhint": "^0.9.13",
+    "grunt-mocha-cli": "^4.0.0",
+    "grunt-run": "^0.8.1",
     "grunt-spritesmith": "^6.6.3"
   },
   "dependencies": {}
